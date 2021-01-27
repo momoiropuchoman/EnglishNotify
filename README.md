@@ -3,7 +3,9 @@ Sends an English word to your LINE
 
 # File Format
 This app gets a message from a file on your computer and send it to your LINE.
+
 The candidate messages need to be separated by blank lines.
+
 The file is like the format as below.
 
 -----------------------------------------------------------------------------------------
