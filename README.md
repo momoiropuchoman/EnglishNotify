@@ -19,6 +19,4 @@ Oranges are a good source of Vitamin C.
 
 -----------------------------------------------------------------------------------------
 
-aaa
-aa
-a
+Note: a first blank line and final one are unnecessary
